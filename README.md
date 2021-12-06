@@ -1,2 +1,7 @@
 # little-c
-c primer
+
+Language C Learning Project
+
+## Current Status
+
+Under planning
